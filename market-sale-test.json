@@ -95,7 +95,7 @@
       "network": "Rinkeby",
       "type": "fixed",
       "marketType": "Bond",
-      "symbol": "Bond",
+      "symbol": "iUSD",
       "address": "0xaCD0523A19aAA8673525A43D3526a3E064A292d2",
       "saleTime": "OTC 2022-01-08 06:00",
       "totalSold": "2.9K USDT",
