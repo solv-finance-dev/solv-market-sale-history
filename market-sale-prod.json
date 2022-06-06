@@ -121,7 +121,7 @@
       "address": "0x35dff38a3371084da7c81c508a22d2865d8dbc56",
       "saleTime": "2022-05-19",
       "totalSold": "2500 WETH",
-      "term": "50 Dyas",
+      "term": "50 Days",
       "conversionPrice": "0.2 BUSD",
       "apr": "8%"
     },
@@ -133,7 +133,7 @@
       "address": "0x5297e4fd4d103289bfd2ce1f835e63659d3c5ba9",
       "saleTime": "2022-05-20",
       "totalSold": "400000 BIT",
-      "term": "50 Dyas",
+      "term": "50 Days",
       "conversionPrice": "0.2 BIT",
       "apr": "18%"
     }
