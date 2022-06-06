@@ -78,30 +78,6 @@
       "apr": "768%"
     },
     {
-      "chainId": 1,
-      "network": "ETH",
-      "marketType": "Bond",
-      "symbol": "USF",
-      "address": "0xbf50337ed0ff20fa4d5702bf2da187e2c217d034",
-      "saleTime": "2022-02-08",
-      "totalSold": "1000000 USDT",
-      "term": "90 Days",
-      "conversionPrice": "3.5 USDT",
-      "apr": "8%"
-    },
-    {
-      "chainId": 1,
-      "network": "ETH",
-      "marketType": "Bond",
-      "symbol": "PERP",
-      "address": "0x2d53f42b2edf8907bcaa4d3f28e6f76bd95334e3",
-      "saleTime": "2022-02-17",
-      "totalSold": "3005631 USDT",
-      "term": "120 Days",
-      "conversionPrice": "3.11 USDT",
-      "apr": "5%"
-    },
-    {
       "chainId": 42161,
       "network": "Arbitrum",
       "marketType": "Bond",
