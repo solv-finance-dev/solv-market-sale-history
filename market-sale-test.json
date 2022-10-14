@@ -91,8 +91,8 @@
       "apr": "19283.24%"
     },
     {
-      "chainId": 5,
-      "network": "Goerli",
+      "chainId": 4,
+      "network": "Rinkeby",
       "type": "fixed",
       "marketType": "Convertible Bond",
       "symbol": "iUSD",
