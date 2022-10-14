@@ -42,7 +42,7 @@
       "chainId": 421611,
       "network": "Arbitrum Testnet",
       "type": "fixed",
-      "marketType": "Bond",
+      "marketType": "Convertible Bond",
       "symbol": "STRP",
       "address": "0xd86844E7d92755c0D3235174C0Af1651f64F46a1",
       "saleTime": "2022-04-08 06:00",
@@ -81,7 +81,7 @@
       "chainId": 4,
       "network": "Rinkeby",
       "type": "fixed",
-      "marketType": "Bond",
+      "marketType": "Convertible Bond",
       "symbol": "SOLV",
       "address": "0x25E35cc47Fc5a80CB59B38514Bc897976729CE0b",
       "saleTime": "2022-01-08 06:00",
@@ -102,5 +102,29 @@
       "term": "180 Days",
       "priceRange": "$180.34~$290.45",
       "apr": "139.24%"
+    },
+    {
+      "chainId": 97,
+      "network": "BSC Testnet",
+      "type": "fixed",
+      "marketType": "Bond",
+      "symbol": "Animoca",
+      "address": "0xA795AEA7dBA35BF2152B8f530ad4E39FdBc05bE5",
+      "saleTime": "2022-01-08 06:00",
+      "totalSold": "2.9K USDT",
+      "term": "180 Days",
+      "apr": "13999.24%"
+    },
+    {
+      "chainId": 97,
+      "network": "BSC Testnet",
+      "type": "fixed",
+      "marketType": "Bond",
+      "symbol": "SOLV",
+      "address": "0x25E35cc47Fc5a80CB59B38514Bc897976729CE0b",
+      "saleTime": "2022-01-08 06:00",
+      "totalSold": "2.9K USDT",
+      "term": "180 Days",
+      "apr": "13999.24%"
     }
 ]
